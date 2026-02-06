@@ -1,4 +1,3 @@
-```markdown
 # Serverless AI Blog Generator 🚀
 
 An event-driven serverless application that uses **Amazon Bedrock (Google Gemini)** to automatically generate high-quality blog posts based on user-provided topics. The system is built for scalability and cost-efficiency, utilizing AWS Lambda, API Gateway, and S3.
@@ -67,8 +66,6 @@ Send a POST request to your API Gateway endpoint:
 This project is licensed under the MIT License.
 
 ```
-
----
 
 ### How to make this "Downloadable"
 To provide a direct download link on your blog, you can host this file in your GitHub repository and use the "Raw" link format. It should look like this in Markdown:
