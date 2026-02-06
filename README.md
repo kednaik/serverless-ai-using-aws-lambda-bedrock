@@ -1,7 +1,3 @@
-Here is a professionally structured **README.md** file for your project. You can copy the code block below, save it as `README.md`, and upload it to your GitHub repository.
-
----
-
 ```markdown
 # Serverless AI Blog Generator 🚀
 
